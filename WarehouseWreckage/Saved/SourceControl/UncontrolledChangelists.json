@@ -5,8 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Paolo/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
-				"C:/Users/Paolo/Documents/Projects/Unreal/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/Paolo/Documents/Projects/Unreal/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Paolo/Documents/Projects/Unreal/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Paolo/Documents/Unreal Projects/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
 			]
 		}
 	]
